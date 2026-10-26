@@ -1,14 +1,22 @@
-#
-# Wavefront material file
-# Converted by Meshlab Group
-#
+# Blender 5.1.1 MTL File: ''tomato'.blend'
+# www.blender.org
 
-newmtl material_0
-Ka 0.200000 0.200000 0.200000
-Kd 1.000000 1.000000 1.000000
-Ks 1.000000 1.000000 1.000000
-Tr 1.000000
+newmtl Material
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
 illum 2
-Ns 0.000000
-map_Kd texture_map.png
+Pr 0.500000
+Pm 0.000000
 
+newmtl Material.001
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+Pr 0.500000
+Pm 0.000000
